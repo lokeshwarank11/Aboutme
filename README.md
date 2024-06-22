@@ -1,5 +1,6 @@
 # Aboutme
 Hi there 👋 I'm Lokeshwaran K, a passionate data enthusiast 📊. I am enthusiastic about leveraging data to derive meaningful insights and solve real-world problems.
+
 Currently, I am actively seeking opportunities in roles such as Data Analyst, Business Intelligence Analyst, and Data Scientist.
 
 📚 Projects
