@@ -4,7 +4,7 @@ Currently, I am actively seeking opportunities in roles such as Data Analyst, Bu
 
 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects and demonstrate my skills in data analysis, visualization, and machine learning. | [Link](https://github.com/lokeshwarank11/Portfolio_Guide)      |
+Welcome to my portfolio, where I showcase my projects and demonstrate my skills in data analysis, visualization, and machine learning - [Link](https://github.com/lokeshwarank11/Portfolio_Guide)
 
 🛠️ Tools
 
